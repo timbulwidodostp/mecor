@@ -1,6 +1,8 @@
 # mecor
 Measurement Error Correction in Linear Models with a Continuous Outcome Use mecor With (In) R Software
 
+https://www.youtube.com/watch?v=sO289-LuB4g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
